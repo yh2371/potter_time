@@ -1,0 +1,8 @@
+*.pyc
+
+__pycache__
+output/
+model_files/
+eval/
+log/
+potter_pose.ipynb
